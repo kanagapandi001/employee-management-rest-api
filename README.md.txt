@@ -56,3 +56,41 @@ A backend REST API application developed using Java, Spring Boot, Spring Data JP
 ## Project Purpose
 
 This project was developed to gain practical experience in Java backend development, REST API design, database integration and Spring Boot application development.
+
+## API Testing Screenshots
+
+### Get All Employees
+![Get All Employees](screenshots/get-all-employees.png)
+
+### Add Employee
+![Add Employee](screenshots/add-employee.png)
+
+### Get Employee by ID
+![Get Employee](screenshots/get-employee-by-id.png)
+
+### Update Employee
+![Update Employee](screenshots/update-employee.png)
+
+### Delete Employee
+![Delete Employee](screenshots/delete-employee.png)
+
+### Search by Name
+![Search by Name](screenshots/search-by-name.png)
+
+### Filter by Department
+![Filter by Department](screenshots/filter-by-department.png)
+
+### Salary Range
+![Salary Range](screenshots/salary-range.png)
+
+### Sort Salary Ascending
+![Sort Ascending](screenshots/sort-salary-ascending.png)
+
+### Sort Salary Descending
+![Sort Descending](screenshots/sort-salary-descending.png)
+
+### Pagination
+![Pagination](screenshots/employee-pagination.png)
+
+### Input Validation
+![Input Validation](screenshots/validation-error.png)
